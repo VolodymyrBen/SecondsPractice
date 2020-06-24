@@ -19,6 +19,7 @@ public class Fibonacci {
         }
         System.out.println(Arrays.toString(numb));
         System.out.println("Vovan  vse  byde  ok");
+        System.out.println("123");
     }
 
 }
